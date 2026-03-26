@@ -1,6 +1,6 @@
 # Obudowa Mikrokontrolera (Fusion 360)
 
-![Podgląd obudowy](obudowa.jpg)
+![Podgląd obudowy](case.jpg)
 
 Projek obudowy z górną pokrywką, zaprojektowany w programie Autodesk Fusion 360. Obudowa została stworzona z myślą o zabezpieczeniu układów elektronicznych (np. mikrokontrolerów).
 
